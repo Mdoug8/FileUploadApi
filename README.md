@@ -7,7 +7,7 @@ Esse projeto foi elaborado usando ASP.NET Core utilizando linguagem C#.
 Para executar o projeto, será necessário instalar os seguintes programas:
 * https://visualstudio.microsoft.com/pt-br/downloads/
 * https://www.postman.com/downloads/
-* 
+
 Para iniciar o desenvolvimento, é necessário clonar o projeto do gitHub num diretório de sua preferência:
 
 cd "diretório de sua preferência"
