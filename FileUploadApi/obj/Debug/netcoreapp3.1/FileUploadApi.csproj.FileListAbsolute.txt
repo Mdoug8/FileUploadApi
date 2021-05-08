@@ -17,3 +17,4 @@ C:\Users\mdrae\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp3.1\
 C:\Users\mdrae\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp3.1\FileUploadApi.dll
 C:\Users\mdrae\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp3.1\FileUploadApi.pdb
 C:\Users\mdrae\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp3.1\FileUploadApi.genruntimeconfig.cache
+C:\Users\mdrae\source\repos\FileUploadApi\FileUploadApi\obj\Debug\netcoreapp3.1\FileUploadApi.csprojAssemblyReference.cache
